@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/fc99003c-8d10-48ff-9b93-1820731b4109/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/arielazure1",
+    "appService.deploySubpath": "."
+}
